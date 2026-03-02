@@ -5,6 +5,7 @@ def load_dataset(file_path):
     try:
         df = pd.read_csv(file_path)
         print("Data loaded successfully.")
+        print(df.head())
         return df
     except Exception as e:
         print(f"Unexpected error: {e}")
@@ -53,7 +54,6 @@ if __name__ == "__main__":
     df_test = load_dataset(test_path)
     
     if df_test is not None:
-
         show_dataset_info(df_test)
         
         check_dataset_duplicates(df_test)
