@@ -1,9 +1,8 @@
 """
-Starbucks Data Cleaning & Feature Engineering
-Author: [Tu Nombre]
+Starbucks Data Cleaning
+Author: Carles Conesa
 Dataset: Starbucks Customer Ordering Patterns (100k transactions)
-Description: This script cleans raw transaction data and creates new features
-for business analysis in Power BI.
+Description: This script cleans the raw dataset.
 """
 
 import pandas as pd
