@@ -8,6 +8,11 @@ for business analysis in Power BI.
 
 import pandas as pd
 
+import os
+
+from starbucks_exploration import load_dataset
+
+
 def modify_variable_types(df):
     """
     Modifies date and time variables.
