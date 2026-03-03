@@ -16,6 +16,8 @@ def modify_variable_types(df):
     """
     Modifies date and time variables.
     """
+    
+    
     # Standardizing date and time
     df['order_date'] = pd.to_datetime(df['order_date'])
     df['order_time'] = pd.to_datetime(df['order_time'], format='%H:%M').dt.time
@@ -28,6 +30,7 @@ if __name__ == "__main__":
     output_path = "data/processed/starbucks_customer_ordering_patterns_cleaned.csv"
     
     print("\nStarting test...\n")
+    
     
     df_test = load_dataset(test_path)
     
