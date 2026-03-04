@@ -68,7 +68,7 @@ starbucks-data-analysis/
 | Language      | Python                                   |
 | Data Analysis | Pandas                                   |
 | Visualization | Power BI                                 |
-| Database      | SQL (DuckDB)                            |
+| Database      | SQL (DuckDB)                             |
 | Environment   | VSCode                                   |
 
 ---
