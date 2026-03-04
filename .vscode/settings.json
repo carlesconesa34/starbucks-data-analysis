@@ -1,0 +1,16 @@
+{
+    "duckdb.databases": [
+        {
+            "alias": "starbucks",
+            "type": "file",
+            "path": "c:\\VSCode\\starbucks-data-analysis\\data\\starbucks.duckdb",
+            "attached": true
+        }
+    ],
+    "duckdb.defaultDatabase": "starbucks",
+    "workbench.editorAssociations": {
+        "*.parquet": "duckdb.dataFileViewer",
+        "*.csv": "duckdb.dataFileViewer",
+        "*.tsv": "duckdb.dataFileViewer"
+    }
+}
