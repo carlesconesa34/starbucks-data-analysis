@@ -1,10 +1,10 @@
-# ☕ Starbucks Data Analysis
+# Starbucks Data Analysis
 
 A beginner data analysis project exploring Starbucks business data through Python and SQL, combining exploratory analysis, cleaning and reporting.
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Project Structure](#project-structure)
@@ -19,13 +19,13 @@ A beginner data analysis project exploring Starbucks business data through Pytho
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This project was built as a **learning exercise** by a beginner in data analysis. It may contain errors, suboptimal approaches, or incomplete analyses. It is **not intended to be taken as a serious or professional-grade analysis** in any context.
 
 If you are a recruiter or evaluator reviewing this project, please keep in mind that the primary goal was to practice and develop skills in Python, SQL, and data analysis workflows — not to produce production-ready work.
 
-Feedback and suggestions are always welcome! 🙌
+Feedback and suggestions are always welcome!
 
 ---
 
@@ -151,4 +151,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-> Built with ☕ and Python by [carlesconesa34](https://github.com/carlesconesa34)
+> Built in Python by [carlesconesa34](https://github.com/carlesconesa34)
