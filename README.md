@@ -31,7 +31,7 @@ Feedback and suggestions are always welcome! 🙌
 
 ## Overview
 
-This project performs an end-to-end data analysis on Starbucks datasets, covering data ingestion, cleaning, SQL querying, and insight generation. The goal is to extract meaningful business patterns and trends from raw data, producing structured reports that can support data-driven decision-making.
+This project performs a basic data analysis on Starbucks datasets, covering data ingestion, cleaning, SQL querying, and insight generation. The goal is to extract meaningful business patterns and trends from raw data, producing structured reports that can support data-driven decision-making.
 
 ---
 
