@@ -1,6 +1,6 @@
 # ☕ Starbucks Data Analysis
 
-A beginner data analysis project exploring Starbucks business data through Python and SQL, combining exploratory analysis, cleaning and structured reporting.
+A beginner data analysis project exploring Starbucks business data through Python and SQL, combining exploratory analysis, cleaning and reporting.
 
 ---
 
