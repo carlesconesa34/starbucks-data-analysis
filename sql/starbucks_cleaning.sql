@@ -3,7 +3,6 @@ SELECT
     customer_id AS Customer_ID,
     order_id AS Order_ID,
     order_time AS Order_Time,
-    order_time AS Order_Time,
     day_of_week AS Day_of_Week,
     order_channel AS Order_Channel,
     store_id AS Store_ID,
