@@ -11,7 +11,7 @@ SELECT
     customer_age_group AS Age_Group,
     customer_gender AS Gender,
     is_rewards_member AS Rewards_Member,
-    total_spend AS Sales_Amount,
+    total_spend AS Total_Spend,
     cart_size AS Cart_Size,
     num_customizations AS Num_Customizations,
     drink_category AS Drink_Category,
