@@ -21,5 +21,4 @@ SELECT
     order_ahead AS Ordered_Ahead,
     customer_satisfaction AS Customer_Satisfaction
 FROM 'data/processed/starbucks_customer_ordering_patterns_cleaned.csv';
-
 COPY (SELECT * FROM orders) TO 'data/processed/starbucks_cleaned_sql.csv' (HEADER, DELIMITER ',');
