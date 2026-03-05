@@ -58,7 +58,6 @@ def show_dataset_statistics(df):
     key_columns = ['total_spend', 'fulfillment_time_min', 'customer_satisfaction']
     valid_columns = []
     
-    # Validating that columns exist before calculating statistics
     for col in key_columns:
         if col in df.columns:
             valid_columns.append(col)

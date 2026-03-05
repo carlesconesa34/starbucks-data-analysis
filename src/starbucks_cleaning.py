@@ -18,7 +18,6 @@ def modify_variable_types(df):
     """
     
     
-    # Standardizing date and time
     df['order_date'] = pd.to_datetime(df['order_date'])
     df['order_time'] = pd.to_datetime(df['order_time'], format='%H:%M').dt.time
     
