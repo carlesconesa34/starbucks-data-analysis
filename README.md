@@ -78,7 +78,7 @@ starbucks-data-analysis/
 ### Prerequisites
 
 - Python
-- pip (Python package manager)
+- Pip (Python package manager)
 - Git
 - DuckDB extension (VS Code)
 
