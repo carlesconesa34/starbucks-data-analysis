@@ -114,7 +114,7 @@ pip install -r requirements.txt
 python src/starbucks_exploration.py
 python src/starbucks_cleaning.py
 ```
-2. Execute SQL queries found in the `sql/` folder.
+2. Execute SQL queries found in the `sql/` folder after installing DuckDB extension for VS Code (connect the SQL file to a new database).
 
 3. Generated reports and visualizations will be saved in the `report/` directory.
 
