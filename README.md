@@ -25,7 +25,7 @@ This project was built as a **learning exercise** by a beginner in data analysis
 
 If you are a recruiter or evaluator reviewing this project, please keep in mind that the primary goal was to practice and develop skills in Python, SQL, and data analysis workflows — not to produce production-ready work.
 
-Feedback and suggestions are always welcome!
+Feedback and suggestions are always welcome.
 
 ---
 
@@ -79,6 +79,7 @@ starbucks-data-analysis/
 - Python
 - pip (Python package manager)
 - Git
+- DuckDB extension (VS Code)
 
 ### Installation
 
@@ -136,11 +137,7 @@ It contains information about customer ordering behaviour at Starbucks, includin
 
 All analytical outputs — including charts, tables, and summary reports — are saved in the `report/` directory after running the pipeline.
 
-Key areas of analysis may include:
-
-- Sales trends
-- Customer segmentation insights
-- Geographic distribution of stores
+Key areas of analysis may include sales trends and customer segmentation insights.
 
 ---
 
