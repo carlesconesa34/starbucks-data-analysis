@@ -55,7 +55,7 @@ starbucks-data-analysis/
 │
 ├── .gitignore
 ├── README.md
-└── requirements.txt          # Python dependencies
+└── requirements.txt                       # Python dependencies
 ```
 
 ---
