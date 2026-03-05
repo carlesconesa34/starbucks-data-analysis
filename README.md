@@ -39,19 +39,19 @@ This project performs a basic data analysis on Starbucks datasets, covering data
 
 ```
 starbucks-data-analysis/
-├──.vscode/                  # VSCode workspace settings
+├──.vscode/                                # VSCode workspace settings
 │
-├── report/                   # Output report and visualizations.
+├── report/                                # Output report and visualizations
 │
 ├── data/
-│   └── raw/                  # Raw input datasets (CSV, JSON, etc.)
+│   └── raw/                               # Raw input datasets (CSV)
 │ 
-├── sql/                      # SQL query files
-│   └── starbucks_cleaning.sql                 # Queries for modifying dataset columns.
+├── sql/                                   # SQL query files
+│   └── starbucks_cleaning.sql             # Queries for modifying dataset columns
 │
 ├── src/                                   # Python source code
-│   ├── starbucks_cleaning.py              # Data cleaning script.
-│   └── starbucks_exploration.py           # Data exploration script.
+│   ├── starbucks_cleaning.py              # Data cleaning script
+│   └── starbucks_exploration.py           # Data exploration script
 │
 ├── .gitignore
 ├── README.md
