@@ -54,6 +54,7 @@ starbucks-data-analysis/
 │   └── starbucks_exploration.py           # Data exploration script
 │
 ├── .gitignore
+├── LICENSE
 ├── README.md
 └── requirements.txt                       # Python dependencies
 ```
